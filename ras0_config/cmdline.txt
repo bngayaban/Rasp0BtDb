@@ -1,0 +1,2 @@
+## for connecting bt module to RPi0, just replace arduino with RPi0 and its the same
+# https://howtomechatronics.com/tutorials/arduino/arduino-and-hc-05-bluetooth-module-tutorial/

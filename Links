@@ -1,0 +1,6 @@
+Connecting HC 05  to ras0
+ - Baud of hc 05 is 9600
+https://blog.miguelgrinberg.com/post/a-cheap-bluetooth-serial-port-for-your-raspberry-pi
+
+Schematic
+https://learn.sparkfun.com/tutorials/getting-started-with-the-raspberry-pi-zero-wireless/all
